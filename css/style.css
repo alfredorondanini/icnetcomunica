@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.navbar {
+  background-color: rgba(27, 85, 131, 0.5);
+}
+.navbar a {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+}
+
+h1,
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 2em;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+}
+
+.ofrecemos__articulo {
+  width: 80%;
+  height: auto;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 100px;
+  padding-left: 20px;
+  margin-top: 30px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  margin-left: 80px;
+  overflow-y: auto;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.pie {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgba(27, 85, 131, 0.5);
+  margin-top: 50px;
+}
+
+.pie__icon--sm {
+  width: 3%;
+}
+
+/*# sourceMappingURL=style.css.map */
